@@ -8,7 +8,7 @@
    - Report - Thread vs Time (parallel code with 1, 2, 4, 6, 8, 10, 12, 16, 20, 32, 64 Processors)
    - Speedup vs Processors.
    - Parallelization fraction and Inference.
-   - 
+     
 2. [OpenMP Parallel Code for Two Vector addition && multiplication of  Double Precision Floating Point Numbers](https://github.com/sindhiya-r/parallelization_exercise/tree/main/t03)
 
    Contents:
@@ -18,7 +18,11 @@
    - Plot Speedup vs Processors.
    - Parallelization fraction and Inference.
      
-4. [OpenMP parallel code to perform the Vector Dot Product for N Double Precision floating point numbers](https://github.com/sindhiya-r/parallelization_exercise/tree/main/t04)
+3. [OpenMP parallel code to perform the Vector Dot Product for N Double Precision floating point numbers](https://github.com/sindhiya-r/parallelization_exercise/tree/main/t04)
 
    Contents:
-   -
+   - Parallel Code for multiplication.
+   - Parallel Code Using Critical Section for final addition.
+   - Thread vs Time.
+   - Speedup vs Processors.
+   - Parallelization fraction and Inference.
